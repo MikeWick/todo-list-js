@@ -13,4 +13,4 @@
 * HTML
 * CSS
 ---
-<img src="todo_list2.png" alt="Todo List">
+<img src="todo_list2.png" width="100%" alt="Todo List">
