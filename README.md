@@ -13,3 +13,4 @@
 * HTML
 * CSS
 ---
+<img src="todo_list2.png" alt="Todo List">
